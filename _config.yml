@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "ko"
-title                    : "Chaeyeon's Portfolio"
+title                    : "Chaeyeon's DEV note"
 title_separator          : "-"
 name                     : "ChaeYeon"
-description              : "portfolio 기록하기"
+description              : "초보 개발자 탈출하기"
 url                      : "https://chaeyeon-lea.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "chaeyeon-lea/chaeyeon-lea.github.io"
@@ -108,7 +108,7 @@ analytics:
 author:
   name             : "chaeyeon"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
+  bio              : "초보 개발자 탈출하기"
   location         : "Ansan, Korea"
   email            : chaeyeon1227@gmail.com
   links:
@@ -151,7 +151,7 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url:
+      url: https://www.instagram.com/jjaenni97/
 
 
 # Reading Files
