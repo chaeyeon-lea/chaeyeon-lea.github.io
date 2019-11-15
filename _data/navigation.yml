@@ -1,11 +1,14 @@
 # main links
 main:
   - title: "About"
-   url: /about/
+    url: /about/
+    
   - title: "Category"
     url: /categories/
+    
   - title: "Archive"
     url: /year-archive/
+    
   - title: "Home"
     url: /chaeyeon-lea.github.io/
   # - title: "Sample Collections"
