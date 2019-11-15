@@ -301,5 +301,5 @@ defaults:
       layout: single
       author_profile: true
 
-
+category_list: [python, java, mysql, data science, linux, web publishing, diary]
  
