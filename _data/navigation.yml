@@ -4,7 +4,7 @@ main:
     url: /about/
     
   - title: "Category"
-    url: /categories/
+    url: /category/
     
   - title: "Archive"
     url: /year-archive/
