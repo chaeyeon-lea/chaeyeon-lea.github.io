@@ -6,6 +6,8 @@ main:
     url: /categories/
   - title: "Archive"
     url: /year-archive/
+  - title: "Home"
+    url: /chaeyeon-lea.github.io/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
